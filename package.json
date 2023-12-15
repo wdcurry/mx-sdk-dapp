@@ -1,6 +1,6 @@
 {
   "name": "@multiversx/sdk-dapp",
-  "version": "2.25.2-alpha.0",
+  "version": "2.25.2-alpha.1",
   "description": "A library to hold the main logic for a dapp on the MultiversX blockchain",
   "author": "MultiversX",
   "license": "GPL-3.0-or-later",
@@ -43,7 +43,7 @@
     "@storybook/manager-webpack4": "6.5.14",
     "@storybook/preset-scss": "1.0.3",
     "@storybook/react": "6.5.14",
-    "@storybook/test-runner": "0.9.1",
+    "@storybook/test-runner": "0.16.0",
     "@storybook/testing-library": "0.0.13",
     "@testing-library/jest-dom": "5.16.2",
     "@testing-library/react": "13.3.0",
